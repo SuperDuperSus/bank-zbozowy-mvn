@@ -1,2 +1,2 @@
-![example workflow](https://github.com/<user>/<repo>/actions/workflows/<file>
+![example workflow](https://github.com/SuperDuperSus/bank-zbozowy-mvn/actions/workflows/<file>
 /badge.svg)

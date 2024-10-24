@@ -1,2 +1,2 @@
-![example workflow](https://github.com/SuperDuperSus/bank-zbozowy-mvn/actions/workflows/<file>
+![Java CI](https://github.com/SuperDuperSus/bank-zbozowy-mvn/actions/workflows/ci.yml
 /badge.svg)
